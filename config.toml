@@ -14,6 +14,7 @@ cli-version = "dev"
 [YouTube]
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube"
+included-patches = "'Theme'"
 #included-patches = "'Change version code' 'Custom branding icon for YouTube' 'Custom branding name for YouTube' 'MaterialYou' 'Theme' 'Custom header for YouTube'"
 excluded-patches = "'Alternative thumbnails' 'Enable gradient loading screen' 'Enable debug logging'"
 #patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon='revancify_red'"
