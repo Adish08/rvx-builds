@@ -20,7 +20,7 @@ patches-version = "dev"
 cli-version = "dev"
 patches-source = "anddea/revanced-patches"
 cli-source = "inotia00/revanced-cli"
-#rv-brand = "RVX"
+rv-brand = "RVX"
 
 # ---- Patch Sources (nested table syntax) ----
 [PatchSources.rvx]
